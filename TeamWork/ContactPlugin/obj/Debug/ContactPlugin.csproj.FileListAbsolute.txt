@@ -1,0 +1,86 @@
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\ContactPlugin.dll.config
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\ContactPlugin.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\ContactPlugin.pdb
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Buffers.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Memory.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Numerics.Vectors.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Text.Json.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.ValueTuple.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Buffers.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Memory.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Numerics.Vectors.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Text.Json.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\bin\Debug\System.ValueTuple.xml
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.csproj.AssemblyReference.cache
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.csproj.CoreCompileInputs.cache
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.csproj.CopyComplete
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.dll
+C:\Estevam Amorim\Trabalho\Processo Seletivo Dynacoop\Projects\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.pdb
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\ContactPlugin.dll.config
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\ContactPlugin.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\ContactPlugin.pdb
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Buffers.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Memory.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Text.Json.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.ValueTuple.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Buffers.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Memory.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Text.Json.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\bin\Debug\System.ValueTuple.xml
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.csproj.CopyComplete
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.dll
+C:\Users\Jose\Desktop\4etzde\TeamWork\ContactPlugin\obj\Debug\ContactPlugin.pdb
